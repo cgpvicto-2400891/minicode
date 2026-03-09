@@ -110,6 +110,16 @@ make -j$(nproc)
 
 ---
 
+
+### Run n'importe ou
+
+```bash
+# creation lien symbolique
+ sudo ln -s /home/username/Downloads/MiniCode /usr/local/bin/minicode
+```
+
+---
+
 ## ⌨️ Keyboard Shortcuts
 
 | Shortcut | Action |
