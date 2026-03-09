@@ -1,0 +1,9 @@
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/MiniCode.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/edit_cache.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/rebuild_cache.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/list_install_components.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/install.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/install/local.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/install/strip.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/MiniCode_autogen_timestamp_deps.dir
+/home/mr-robot/Downloads/MiniCode/build/CMakeFiles/MiniCode_autogen.dir
